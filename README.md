@@ -62,20 +62,9 @@ My completed table in this format below:
 <img width="1355" height="647" alt="yth" src="https://github.com/user-attachments/assets/3e68f479-453f-4cc3-86e4-1127b0915928" />
 
 # Step 3: Calculate Scenario Summary
-Provide a summary table:
+I calculated and provided the summary table below:
 
-Scenario
-
-Year-End Net Operating Profit
-
-Base Case
-
-
-Optimistic
-
-
-Downside
-
+![Uploading scen tab.png…]()
 
 # Step 4: Conduct Variance Analysis
 Compare Month 1 forecast to actual monthly average performance (example: Is the revenue difference driven by price, volume, or mix?)
