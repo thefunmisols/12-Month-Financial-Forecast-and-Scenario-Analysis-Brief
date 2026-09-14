@@ -70,34 +70,12 @@ I conducted a variance analysis by comparing Month 1 forecast to actual monthly 
 
 The Month 1 base-case forecast projects $500,000 in revenue, with Cost of Services of $150,000, Marketing of $50,000, Operating Expenses of $100,000, and Net Operating Profit of $200,000. However, the workbook does not contain actual monthly performance data, so a quantified forecast-to-actual variance cannot be calculated reliably. The revenue forecast is driven primarily by the assumed 5% monthly growth rate, rather than by documented changes in price, sales volume, or product/customer mix. Therefore, any revenue variance would need to be assessed against actual transaction volumes, average selling prices, and the mix of products or services sold. On the cost side, Cost of Services and Marketing are modeled as percentages of revenue, meaning they will increase or decrease proportionally with revenue. Operating Expenses are relatively fixed at $100,000 per month during Months 1–6, so changes in revenue would have a stronger impact on operating profit. Management should compare actual revenue, customer volumes, pricing, and expense levels against these assumptions to identify the specific drivers of any unfavorable or favorable variance.
 
-# Step 5: Write Executive Recommendation Brief
+# Step 5: Wrote the Executive Recommendation Brief
 I wrote a 300–400 word brief addressed to the Finance Manager. My brief explained the forecast trend, highlighted risk exposures, identified the most sensitive financial drivers and recommended one strategic action.
 
+**To: Finance Manager**
 
-**NOTE**
-I double checked my work to make sure of the following;
-
-Keeping calculations structured before writing the analysis
-
-Focusing on drivers, not just the numbers
-
-Considering how revenue growth impacts all variable costs
-
-Maintaining a professional tone in the executive brief
-
-Remembering to adjust operating expenses in Month 7
-
-Applying the correct percentage calculations
-
-Writing descriptive summaries with insight
-
-Repeating numbers and making sure to add the interpretation
-
-I made sure t consider the factors aabove as these are the common mistakes made during 
-
-
-To: Finance Manager
-Subject: Twelve-Month Base Case Forecast Outlook and Recommendation
+**Subject: Twelve-Month Base Case Forecast Outlook and Recommendation**
 
 The base case forecast projects annual revenue of approximately $7.96 million and net operating profit of $3.46 million, representing an operating margin of 43.4%. Monthly revenue increases from $500,000 in Month 1 to approximately $855,170 in Month 12, supported by assumed compound monthly growth of 5%. Monthly operating profit rises from $200,000 to approximately $393,102 over the same period.
 
@@ -109,3 +87,24 @@ The most sensitive value drivers are revenue growth, service costs as a percenta
 
 Leadership should make the Month 7 operating expense increase conditional on a formal Month 6 performance review. Approval should depend on demonstrated revenue growth, maintained contribution margins, and sufficient cash to fund the additional commitment. This decision would link expansion spending to verified business performance while protecting profitability and liquidity if growth falls below expectations.
 
+
+**NOTE**
+I double checked my work to make sure of the following;
+
+-Keeping calculations structured before writing the analysis
+
+-Focusing on drivers, not just the numbers
+
+-Considering how revenue growth impacts all variable costs
+
+-Maintaining a professional tone in the executive brief
+
+-Remembering to adjust operating expenses in Month 7
+
+-Applying the correct percentage calculations
+
+-Writing descriptive summaries with insight
+
+-Repeating numbers and making sure to add the interpretation
+
+-I made sure to consider all the factors above as these are the common mistakes made during forecast and scenario analysis
