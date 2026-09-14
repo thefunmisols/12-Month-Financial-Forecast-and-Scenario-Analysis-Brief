@@ -65,6 +65,10 @@ I calculated and provided the scenario summary table below:
 
 <img width="338" height="138" alt="sc" src="https://github.com/user-attachments/assets/101a2cdb-b17e-4ef0-a035-2bc9ab0f0e35" />
 
+The **Scenario Summary** shows how profitability changes under different business conditions. In the **Base Case**, the business is expected to generate a year-end Net Operating Profit of **$393,102**, representing the most likely outcome based on current assumptions. Under the **Optimistic Scenario**, stronger revenue growth and better cost efficiency increase profit to **$595,125**, which is **$202,023 higher than the Base Case**.
+
+In the **Downside Scenario**, slower revenue growth and higher costs reduce Net Operating Profit to **$226,822**, which is **$166,280 below the Base Case**. This demonstrates that profitability is highly sensitive to changes in **revenue growth and cost levels**. Overall, the analysis shows significant upside potential, but management should closely monitor revenue performance and control costs to protect profitability if business conditions weaken.
+
 # Step 4: Next step was to Conduct the Variance Analysis
 I conducted a variance analysis by comparing Month 1 forecast to actual monthly average performance (example: Is the revenue difference driven by price, volume, or mix?) and wrote 150–200 words explaining key changes.
 
