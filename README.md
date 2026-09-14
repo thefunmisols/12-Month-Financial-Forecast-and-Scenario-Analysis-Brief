@@ -61,9 +61,9 @@ My completed table in this format below:
 <img width="1355" height="647" alt="yth" src="https://github.com/user-attachments/assets/3e68f479-453f-4cc3-86e4-1127b0915928" />
 
 # Step 3: Calculated Scenario Summary Next
-I calculated and provided the summary table below:
+I calculated and provided the scenario summary table below:
 
-<img width="603" height="581" alt="scen tab" src="https://github.com/user-attachments/assets/474103b5-6409-4f39-98a6-7a802b9e3d8a" />
+<img width="338" height="138" alt="sc" src="https://github.com/user-attachments/assets/101a2cdb-b17e-4ef0-a035-2bc9ab0f0e35" />
 
 # Step 4: Next step was to Conduct the Variance Analysis
 I conducted a variance analysis by comparing Month 1 forecast to actual monthly average performance (example: Is the revenue difference driven by price, volume, or mix?) and wrote 150–200 words explaining key changes.
