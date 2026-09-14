@@ -2,7 +2,7 @@
 # 12-Month-Financial-Forecast-and-Scenario-Analysis-Brief
 A real-world financial forecasting task to build my logical structure, clarity, financial reasoning, and professional communication.
 
-<img width="1355" height="647" alt="yth" src="https://github.com/user-attachments/assets/3e68f479-453f-4cc3-86e4-1127b0915928" />
+<img width="1357" height="645" alt="real" src="https://github.com/user-attachments/assets/779e70e8-29e1-42b0-b6e4-2cb154f22e8e" />
 
 **GUIDELINES**
 
