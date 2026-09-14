@@ -93,6 +93,7 @@ Leadership should make the Month 7 operating expense increase conditional on a f
 
 
 **NOTE**
+
 I double checked my work to make sure of the following;
 
 -Keeping calculations structured before writing the analysis
