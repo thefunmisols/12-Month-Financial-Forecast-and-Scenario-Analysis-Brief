@@ -61,7 +61,55 @@ My completed table in this format below:
 <img width="1357" height="645" alt="real" src="https://github.com/user-attachments/assets/779e70e8-29e1-42b0-b6e4-2cb154f22e8e" />
 
 # Step 3: Calculated Scenario Summary Next
-I calculated and provided the scenario summary table below:
+
+I calculated the scenario summary, **Optimistic and Downside scenarios using the same structure as my Base Case**, but changed the key assumptions to represent better-than-expected and worse-than-expected business conditions.
+
+My current Base Case uses **5% monthly revenue growth, Cost of Services at 30% of revenue, Marketing at 10%, and Operating Expenses of $100,000 for Months 1–6 and $120,000 for Months 7–12**.
+
+### The Scenario assumptions I used
+
+| Assumption             | Base Case |   Optimistic |     Downside |
+| ---------------------- | --------: | -----------: | -----------: |
+| Starting Revenue       |  $500,000 |     $500,000 |     $500,000 |
+| Monthly Revenue Growth |        5% |       **7%** |       **3%** |
+| Cost of Services       |       30% |      **25%** |      **35%** |
+| Marketing              |       10% |       **8%** |      **12%** |
+| OpEx Months 1–6        |  $100,000 |  **$90,000** | **$110,000** |
+| OpEx Months 7–12       |  $120,000 | **$110,000** | **$140,000** |
+
+For each scenario, I calculated the revenue using:
+
+**Next Month Revenue = Previous Month Revenue × (1 + Growth Rate)**
+
+Then calculated:
+
+**Cost of Services = Revenue × COS %**
+
+**Marketing = Revenue × Marketing %**
+
+**Net Operating Profit = Revenue − Cost of Services − Marketing − Operating Expenses**
+
+For example, my **Optimistic Month 12 revenue** is:
+
+**$500,000 × (1.07)¹¹ = $1,052,426**
+
+Then:
+
+**NOP = $1,052,426 − $263,106 − $84,194 − $110,000 = $595,125**
+
+For the **Downside scenario**, Month 12 revenue is:
+
+**$500,000 × (1.03)¹¹ = $692,117**
+
+Therefore:
+
+**NOP = $692,117 − $242,241 − $83,054 − $140,000 = $226,822**
+
+That is exactly how the scenario summary in my spreadsheet arrives at approximately **$595,125 Optimistic**, **$393,102 Base Case**, and **$226,822 Downside**.
+
+The logic is important: **Optimistic assumes faster sales growth and better cost efficiency, while Downside assumes slower growth and cost pressure.** This allows management to see the range of possible profitability outcomes rather than relying on a single forecast.
+
+I provided the scenario summary table below:
 
 <img width="338" height="138" alt="sc" src="https://github.com/user-attachments/assets/101a2cdb-b17e-4ef0-a035-2bc9ab0f0e35" />
 
