@@ -68,7 +68,7 @@ I calculated and provided the summary table below:
 # Step 4: Next step was to Conduct the Variance Analysis
 I conducted a variance analysis by comparing Month 1 forecast to actual monthly average performance (example: Is the revenue difference driven by price, volume, or mix?) and wrote 150–200 words explaining key changes.
 
-The Month 1 base-case forecast projects $500,000 in revenue, with Cost of Services of $150,000, Marketing of $50,000, Operating Expenses of $100,000, and Net Operating Profit of $200,000. However, the workbook does not contain actual monthly performance data, so a quantified forecast-to-actual variance cannot be calculated reliably. 
+The Month 1 base-case forecast projects $500,000 in revenue, with Cost of Services of $150,000, Marketing of $50,000, Operating Expenses of $100,000, and Net Operating Profit of $200,000.
 
 The revenue forecast is driven primarily by the assumed 5% monthly growth rate, rather than by documented changes in price, sales volume, or product/customer mix. Therefore, any revenue variance would need to be assessed against actual transaction volumes, average selling prices, and the mix of products or services sold. On the cost side, Cost of Services and Marketing are modeled as percentages of revenue, meaning they will increase or decrease proportionally with revenue. 
 
@@ -111,4 +111,4 @@ I double checked my work to make sure of the following;
 
 -Repeating numbers and making sure to add the interpretation
 
--I made sure to consider all the factors above as these are the common mistakes made during forecast and scenario analysis
+I made sure to consider all the factors above as these are the common mistakes made during forecast and scenario analysis
