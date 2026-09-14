@@ -58,7 +58,7 @@ I started with $500,000 revenue in Month 1, then applied 5% monthly growth for 1
 # Step 2: Then I Completed the Base Case Forecast Table
 My completed table in this format below:
 
-<img width="1355" height="647" alt="yth" src="https://github.com/user-attachments/assets/3e68f479-453f-4cc3-86e4-1127b0915928" />
+<img width="1357" height="645" alt="real" src="https://github.com/user-attachments/assets/779e70e8-29e1-42b0-b6e4-2cb154f22e8e" />
 
 # Step 3: Calculated Scenario Summary Next
 I calculated and provided the scenario summary table below:
