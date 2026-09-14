@@ -2,7 +2,7 @@
 # 12-Month-Financial-Forecast-and-Scenario-Analysis-Brief
 A real-world financial forecasting task to build my logical structure, clarity, financial reasoning, and professional communication.
 
-<img width="960" height="437" alt="Base Case Forecast" src="https://github.com/user-attachments/assets/8c593960-d1a3-4476-8efa-3677919311c1" />
+<img width="1355" height="647" alt="yth" src="https://github.com/user-attachments/assets/3e68f479-453f-4cc3-86e4-1127b0915928" />
 
 **GUIDELINES**
 
@@ -44,66 +44,56 @@ A Base Case is used in the following areas;
 
 A Base Case is important because it;
 
-Offers a realistic expectation
+1) Offers a realistic expectation
 
-Serves as a planning tool
+2) Serves as a planning tool
 
-Facilitates comparison of alternative outcomes
+3) Facilitates comparison of alternative outcomes
 
-Assists in risk analysis and decision-making
+4) Assists in risk analysis and decision-making
 
-I started with $500,000 revenue in Month 1. Applied 5% monthly growth for 12 months.
 
-I calculated all related expenses and Net Operating Profit.
+I started with $500,000 revenue in Month 1, then applied 5% monthly growth for 12 months and calculated all related expenses and Net Operating Profit.
 
 # Step 2: Then I Completed the Base Case Forecast Table
 My completed table in this format below:
 
 <img width="1355" height="647" alt="yth" src="https://github.com/user-attachments/assets/3e68f479-453f-4cc3-86e4-1127b0915928" />
 
-# Step 3: Calculate Scenario Summary
+# Step 3: Calculated Scenario Summary Next
 I calculated and provided the summary table below:
 
-![Uploading scen tab.png…]()
+<img width="603" height="581" alt="scen tab" src="https://github.com/user-attachments/assets/474103b5-6409-4f39-98a6-7a802b9e3d8a" />
 
-# Step 4: Conduct Variance Analysis
-Compare Month 1 forecast to actual monthly average performance (example: Is the revenue difference driven by price, volume, or mix?)
+# Step 4: Next step was to Conduct the Variance Analysis
+I conducted a variance analysis by comparing Month 1 forecast to actual monthly average performance (example: Is the revenue difference driven by price, volume, or mix?) and wrote 150–200 words explaining key changes.
 
-Write 150–200 words explaining key changes.
+The Month 1 base-case forecast projects $500,000 in revenue, with Cost of Services of $150,000, Marketing of $50,000, Operating Expenses of $100,000, and Net Operating Profit of $200,000. However, the workbook does not contain actual monthly performance data, so a quantified forecast-to-actual variance cannot be calculated reliably. The revenue forecast is driven primarily by the assumed 5% monthly growth rate, rather than by documented changes in price, sales volume, or product/customer mix. Therefore, any revenue variance would need to be assessed against actual transaction volumes, average selling prices, and the mix of products or services sold. On the cost side, Cost of Services and Marketing are modeled as percentages of revenue, meaning they will increase or decrease proportionally with revenue. Operating Expenses are relatively fixed at $100,000 per month during Months 1–6, so changes in revenue would have a stronger impact on operating profit. Management should compare actual revenue, customer volumes, pricing, and expense levels against these assumptions to identify the specific drivers of any unfavorable or favorable variance.
 
 # Step 5: Write Executive Recommendation Brief
-Write a 300–400 word brief addressed to the Finance Manager.
-
-Your brief should:
-
-Explain forecast trend
-
-Highlight risk exposure
-
-Identify most sensitive financial drivers
-
-Recommend one strategic action
+I wrote a 300–400 word brief addressed to the Finance Manager. My brief explained the forecast trend, highlighted risk exposures, identified the most sensitive financial drivers and recommended one strategic action.
 
 
+**NOTE**
+I double checked my work to make sure of the following;
 
-Keep calculations structured before writing analysis
+Keeping calculations structured before writing the analysis
 
-Focus on drivers, not just numbers
+Focusing on drivers, not just the numbers
 
-Consider how revenue growth impacts all variable costs
+Considering how revenue growth impacts all variable costs
 
-Maintain professional tone in the executive brief
+Maintaining a professional tone in the executive brief
 
+Remembering to adjust operating expenses in Month 7
 
-Forgetting to adjust operating expenses in Month 7
+Applying the correct percentage calculations
 
-Applying incorrect percentage calculations
+Writing descriptive summaries with insight
 
-Writing descriptive summaries without insight
+Repeating numbers and making sure to add the interpretation
 
-Repeating numbers without interpretation
-
-
+I made sure t consider the factors aabove as these are the common mistakes made during 
 
 
 To: Finance Manager
